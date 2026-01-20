@@ -47,6 +47,7 @@ Esame_20-01-2026/
 │   └── view.py (DA MODIFICARE)
 │
 ├── requirements.txt
+├── plot.png
 ├── iTunes.sql (DA IMPORTARE)
 └── main.py (DA ESEGUIRE)
  ```

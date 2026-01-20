@@ -6,3 +6,11 @@ class Controller:
     def __init__(self, view: View, model: Model):
         self._view = view
         self._model = model
+
+    def handle_create_graph(self, e):
+        pass
+
+    def handle_connected_artists(self, e):
+        pass
+
+
